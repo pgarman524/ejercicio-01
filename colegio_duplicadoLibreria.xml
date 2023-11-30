@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clase>
+    <primero_B> 
+        
+<alumno>
+    <Nombre>Sabina</Nombre>
+    <apellido1>Mateos</apellido1>
+    <apellido2>Villa</apellido2>
+    <nacionalidad>España</nacionalidad>
+    <dni>Y8266013B</dni>    
+</alumno>
+
+<alumno>
+    <Nombre>Juán</Nombre>
+    <apellido1>Carlson</apellido1>
+    <apellido2>Perez</apellido2>
+    <nacionalidad>Inglesa</nacionalidad>
+    <dni>E99056483A</dni>    
+</alumno>
+
+<alumno>
+    <Nombre>Juan Andrés</Nombre>
+    <apellido1>Coll</apellido1>
+    <apellido2>Márquez</apellido2>
+    <nacionalidad>Chile</nacionalidad>
+    <dni>73965879H</dni>    
+</alumno>
+
+<alumno>
+    <Nombre>Triana</Nombre>
+    <apellido1>Tome</apellido1>
+    <apellido2>Núñez</apellido2>
+    <nacionalidad>España</nacionalidad>
+    <dni>31804041D</dni>    
+</alumno>
+
+<alumno>
+    <Nombre>Jimena</Nombre>
+    <apellido1>Pico</apellido1>
+    <apellido2>Molinillo</apellido2>
+    <nacionalidad>España</nacionalidad>
+    <dni>23069264B</dni>    
+</alumno>
+
+<alumno>
+    <Nombre>Jon</Nombre>
+    <apellido1>Betancor</apellido1>
+    <apellido2>García</apellido2>
+    <nacionalidad>Mexico</nacionalidad>
+    <dni>05288089K</dni>    
+</alumno>
+
+<alumno>
+    <Nombre>Jennifer</Nombre>
+    <apellido1>Hernández</apellido1>
+    <apellido2>Ríos</apellido2>
+    <nacionalidad>Colombia</nacionalidad>
+    <dni>65909121E</dni>    
+</alumno>
+
+<alumno>
+    <Nombre>Aurelia</Nombre>
+    <apellido1>Figueras</apellido1>
+    <apellido2>Bueno</apellido2>
+    <nacionalidad>España</nacionalidad>
+    <dni>90948207C</dni>    
+</alumno>
+
+<alumno>
+    <Nombre>Anna</Nombre>
+    <apellido1>Stone</apellido1>
+    <apellido2></apellido2>
+    <nacionalidad>USA</nacionalidad>
+    <dni>92339630N</dni>    
+</alumno>
+
+<alumno>
+    <Nombre>Oliver</Nombre>
+    <apellido1>Atom</apellido1>
+    <apellido2></apellido2>
+    <nacionalidad>Alemán</nacionalidad>
+    <dni>78253315R</dni>    
+</alumno>
+
+<alumno>
+    <Nombre>Roger</Nombre>
+    <apellido1>Rosado</apellido1>
+    <apellido2>Baena</apellido2>
+    <nacionalidad>España</nacionalidad>
+    <dni>34469725Q</dni>    
+</alumno>
+
+</primero_B>
+</clase>
